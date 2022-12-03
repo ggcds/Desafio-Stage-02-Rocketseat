@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio Stage 02 Rocketseat </h1>
+<h1 align="center"> Desafio Recriando o Layout</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
